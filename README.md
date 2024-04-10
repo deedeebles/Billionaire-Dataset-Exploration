@@ -14,13 +14,13 @@ The dataset contains information about billionaires across the world, such as th
 
 •	Describe and analyse the additional factors that might influence wealth, e.g., inheritance.
 
-# Hypothesis: 
+### Hypothesis: 
 
 Null Hypothesis (H0): The industry sector in which a company operates has no significant influence on the net worth of the individuals associated with that company.
 
 Alternative Hypothesis (H1): The industry sector in which a company operates has a significant influence on the net worth of the individuals associated with that company.
 
-# Technology and Metholody Employed In This Report
+# Technology and Metholody Employed In This Project
 
 I employed Python programming language in the analysis of the dataset provided, and the project was executed in Jupyter notebook, a web based integrated development environment (IDE). Python is free to use and hosts different libraries that support the analysis of data. The python libraries I used in this project are NumPy, Pandas, Matplotlib, Seaborn and Statsmodels. NumPy makes it possible to complete essential mathematical operations on arrays and matrices, while Pandas allows to manipulate and analyse data. With the aid of Pandas, it was possible to clean the data and fill missing values. Matplotlib and Seaborn on the other hand, are tools that allow the creation of different plots and visualisations such as line graphs, boxplots, barplots and histograms, barcharts e.t.c. In addition, Statsmodels allows to perform statistical hypotheses testing. Lastly, I carried out the analysis on Jupyter Notebook because it supports the execution of different numerous projects including data science projects. Additionally, the platform is free to use. 
 
